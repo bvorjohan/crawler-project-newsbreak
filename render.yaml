@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: product-keyword-dashboard
+    env: python
+    buildCommand: ./build.sh
+    startCommand: gunicorn app:app -b 0.0.0.0:$PORT
+    workingDirectory: backend
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
+
+  - type: cron
+    name: daily-crawl
+    env: python
+    schedule: "0 6 * * *"
+    buildCommand: ""
+    startCommand: python crawler/main.py
+    workingDirectory: backend

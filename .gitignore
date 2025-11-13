@@ -1,0 +1,56 @@
+##############
+# PYTHON (backend/)
+##############
+
+# Virtual environments
+backend/venv/
+backend/.venv/
+backend/env/
+backend/ENV/
+
+# Python cache & temp
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+
+# Local Python config
+backend/.coverage
+backend/.pytest_cache/
+backend/.mypy_cache/
+
+##############
+# NODE / REACT (frontend/)
+##############
+
+# Node modules
+frontend/my-app/node_modules/
+
+# Build output (depending on tool)
+frontend/my-app/dist/
+frontend/my-app/build/
+
+# Local env files
+frontend/my-app/.env
+frontend/my-app/.env.local
+
+# Log files
+frontend/my-app/npm-debug.log*
+frontend/my-app/yarn-debug.log*
+frontend/my-app/yarn-error.log*
+
+##############
+# GENERAL
+##############
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
