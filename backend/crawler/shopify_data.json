@@ -44,7 +44,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 9,
-      "published_products_count": 312,
+      "published_products_count": 313,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "maestro",
@@ -137,7 +137,7 @@
         ],
         [
           "7BONKERS",
-          16
+          17
         ],
         [
           "The Dachy",
@@ -216,23 +216,23 @@
         "sports",
         "strap"
       ],
-      "total_products_sampled": 312,
+      "total_products_sampled": 313,
       "example_titles": [
+        "Hash One PRO Miner (2025 Edition)",
         "Starbucks Bear Mug: Your Cozy Companion for Every Sip ☕🐻",
         "🔥Last Day 49% OFF -🎄Kpop Demon Hunters Advent Calendar 2025",
         "🦩Thanksgiving Sale🦩 💕Make you feel different —Younger, more interested, more relaxed💕",
         "🔥HOT SALE 49% OFF✨Yu Xiang F09-S RC Helicopter, 1/47 Scale 2.4G 6CH Gyro RC Helicopter w/ GPS Intelligent Control System",
         "🔥HOT SALE 49% OFF✨Spider-Man IR Remote Control Flying Figure",
         "🔥60% OFF⏰50,000+ sold!🎅Glass Tabletop Christmas Ornaments【3ct】🔔🎁",
-        "🔥🎁 2025 HOT Deal 💥 Reusable Penis Extension Vibrator – Makes You Longer, Harder & Unstoppable 😍 (Copy)",
-        "💥New on sale 2025 💞 7 vibrations and 5 swing modes - G-spot vibrator"
+        "🔥🎁 2025 HOT Deal 💥 Reusable Penis Extension Vibrator – Makes You Longer, Harder & Unstoppable 😍 (Copy)"
       ]
     },
     "price_summary": {
       "min_price": 14.99,
       "max_price": 199.0,
-      "avg_price": 59.52,
-      "num_prices": 1245
+      "avg_price": 59.54,
+      "num_prices": 1248
     },
     "social_links": {},
     "buy_with_prime": false,
@@ -253,11 +253,7 @@
       "christmas",
       "week"
     ],
-    "timestamp": 1762688926
-  },
-  {
-    "domain": "9wik.com",
-    "platform": "Not Shopify"
+    "timestamp": 1763036232
   },
   {
     "domain": "acegolfs.com",
@@ -299,7 +295,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 95,
-      "published_products_count": 719,
+      "published_products_count": 734,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -442,19 +438,19 @@
       "tags_top": [
         [
           "Model",
-          382
+          391
         ],
         [
           "Top",
-          317
+          323
         ],
         [
           "Winter",
-          284
+          294
         ],
         [
           "Long Sleeve",
-          241
+          250
         ],
         [
           "Basic",
@@ -462,64 +458,64 @@
         ],
         [
           "NEW",
-          206
+          218
         ],
         [
           "Quarter Zip",
-          118
-        ],
-        [
-          "HOT",
-          106
+          127
         ],
         [
           "Bottom",
+          103
+        ],
+        [
+          "HOT",
           102
         ],
         [
           "Pullover",
-          81
+          88
         ]
       ],
       "title_terms_top": [
         "upf50+",
         "golf",
         "inch",
-        "basic",
         "ruffle",
+        "basic",
         "more",
         "than",
         "quarterzip",
+        "shirt",
         "top",
         "sleeve",
         "polo",
-        "shirt",
         "men's",
         "sweatshirt",
         "pants",
         "collar",
         "long",
         "jacket",
-        "ultrasoft",
-        "dress"
+        "silky",
+        "ultrasoft"
       ],
       "total_products_sampled": 500,
       "example_titles": [
-        "Playful Nautical 26.5 Inch Drawstring Ankle Pants",
-        "Playful Nautical Golf Sweatshirt",
-        "Playful Nautical 28 Inch Performance Stretch Ankle Pants",
-        "Wildlife Party Golf Sweatshirt",
-        "Wildlife Party Golf Sweatshirt",
-        "Wildlife Party Golf Sweatshirt",
-        "Wildlife Party Golf Sweatshirt",
-        "Wildlife Party Golf Sweatshirt"
+        "More Than Basic Ruffle Golf Jacket",
+        "EAGLE 28 Inch Stretch Trimmed Pleated Ankle Pants",
+        "Navycore Long Sleeve Golf Shirt Quarterzip UPF50+",
+        "Navycore Long Sleeve Golf Shirt Quarterzip UPF50+",
+        "Wildlife Party Long Sleeve Ruffle 36.5 Inch Dress",
+        "Wildlife Party Ruffle 35.5 Inch Dress For Golf Pickleball & Tennis",
+        "Wildlife Party Ruffle 35.5 Inch Dress For Golf Pickleball & Tennis",
+        "Wildlife Party Silky 19 Inch High Waist Skort UPF50+"
       ]
     },
     "price_summary": {
       "min_price": 19.99,
       "max_price": 169.99,
-      "avg_price": 70.42,
-      "num_prices": 11185
+      "avg_price": 69.08,
+      "num_prices": 11350
     },
     "social_links": {
       "instagram": [
@@ -547,7 +543,7 @@
       "basic ruffle",
       "sleeve quarterzip"
     ],
-    "timestamp": 1762688933
+    "timestamp": 1763036239
   },
   {
     "domain": "artisancutlery.net",
@@ -800,7 +796,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 54,
-      "published_products_count": 460,
+      "published_products_count": 452,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -837,6 +833,10 @@
         "handle": "cjrb-artisan-cutlery-bfcm-2024"
       },
       {
+        "title": "Artisan Cutlery & CJRB BFCM 2025",
+        "handle": "artisan-cutlery-cjrb-bfcm-2025"
+      },
+      {
         "title": "ArtisanCutlery New Arrivals",
         "handle": "artisancutlery-new-arrivals"
       },
@@ -847,10 +847,6 @@
       {
         "title": "Blade Material",
         "handle": "blade-material"
-      },
-      {
-        "title": "Butterfly Tool",
-        "handle": "butterfly-tool"
       },
       {
         "title": "Button Lock",
@@ -943,7 +939,7 @@
       "vendors_top": [
         [
           "Artisan Cutlery",
-          257
+          249
         ],
         [
           "CJRB",
@@ -961,15 +957,15 @@
       "tags_top": [
         [
           "All Products",
-          452
+          444
         ],
         [
           "black friday",
-          309
+          300
         ],
         [
           "Folding Knives",
-          247
+          248
         ],
         [
           "ARTISAN CUTLERY",
@@ -977,11 +973,11 @@
         ],
         [
           "New Arrivals",
-          219
+          220
         ],
         [
           "CJRB Cutlery",
-          179
+          178
         ],
         [
           "Liner Lock",
@@ -996,8 +992,8 @@
           127
         ],
         [
-          "Button Lock",
-          112
+          "AR-RPM9",
+          106
         ]
       ],
       "title_terms_top": [
@@ -1009,8 +1005,8 @@
         "cutlery",
         "cjrb",
         "steel",
-        "titanium",
         "ar-rpm9",
+        "titanium",
         "g10",
         "s35vn",
         "carbon",
@@ -1022,23 +1018,23 @@
         "damascus",
         "artisancutlery"
       ],
-      "total_products_sampled": 460,
+      "total_products_sampled": 452,
       "example_titles": [
+        "CJRB Bolt J1960 AR-RPM9 Steel Blade G10 Handle Folding Knives (Holiday Exclusive)",
         "Artisan Cutlery Keras ATZ-1880G S35VN Blade Titanium Handle Folding Knives",
         "CJRB Boxer J1967 G10 Handle Folding Utility Knife, with 10 Extra Blades",
         "Artisan Cutlery Beest ATZ-1878P AR-RPM9 Blade Brass Handle Folding Knives",
         "Artisan Cutlery Beest ATZ-1878P AR-RPM9 Blade Aluminum Handle Folding Knives",
         "Artisan Cutlery Tortoise 1884G S35VN Steel Blade Titanium Handle Folding Knives",
         "ArtisanCutlery  M14-V1 ATZ-1886G S35VN Blade Titanium and Carbon Fiber Handle Folding Knives(PROTOTYPE)",
-        "ArtisanCutlery Fragarach ATZ-1879G S90V Blade Titanium Handle Folding Knives",
-        "CJRB Tundra J1966 D2 Steel Blade G10 Handle Folding Knives"
+        "ArtisanCutlery Fragarach ATZ-1879G S90V Blade Titanium Handle Folding Knives"
       ]
     },
     "price_summary": {
       "min_price": 14.99,
       "max_price": 999.0,
-      "avg_price": 120.76,
-      "num_prices": 1072
+      "avg_price": 121.22,
+      "num_prices": 1048
     },
     "social_links": {
       "instagram": [
@@ -1069,7 +1065,7 @@
       "knives",
       "blade aluminum"
     ],
-    "timestamp": 1762688936
+    "timestamp": 1763036242
   },
   {
     "domain": "audienhearing.com",
@@ -1090,7 +1086,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 20,
-      "published_products_count": 111,
+      "published_products_count": 112,
       "shopify_pay_enabled_card_brands": [],
       "offers_shop_pay_installments": false
     },
@@ -1181,7 +1177,7 @@
       "product_types_top": [
         [
           "Hearing Aids",
-          32
+          33
         ],
         [
           "Accessories",
@@ -1195,7 +1191,7 @@
       "vendors_top": [
         [
           "Audien Hearing",
-          110
+          111
         ],
         [
           "pdq",
@@ -1209,7 +1205,7 @@
         ],
         [
           "orderediting",
-          22
+          23
         ],
         [
           "Criteo Non Recommendable",
@@ -1249,8 +1245,8 @@
         "audien",
         "hearing",
         "new",
-        "like",
         "otc",
+        "like",
         "used",
         "aids",
         "one",
@@ -1262,23 +1258,23 @@
         "ev1",
         "ev3"
       ],
-      "total_products_sampled": 111,
+      "total_products_sampled": 112,
       "example_titles": [
+        "Audien ION Pro 2 OTC Hearing Aids CX",
         "Trade In Credit: Like New EV1 to Ion Pro 2",
         "Trade In Credit: Used EV1 to Ion Pro 2",
         "Trade In Credit: Like New EV3 to Ion Pro 2",
         "Trade In Credit: Used EV3 to Ion Pro 2",
         "Trade In Credit: Like New BTE to Ion Pro 2",
         "Trade In Credit: Used BTE to Ion Pro 2",
-        "Trade In Credit: Used Atom to Ion Pro 2",
-        "Trade In Credit: Like New Atom to Ion Pro 2"
+        "Trade In Credit: Used Atom to Ion Pro 2"
       ]
     },
     "price_summary": {
       "min_price": 4.8,
       "max_price": 689.0,
-      "avg_price": 185.07,
-      "num_prices": 130
+      "avg_price": 188.92,
+      "num_prices": 131
     },
     "social_links": {
       "instagram": [
@@ -1306,7 +1302,7 @@
       "wearing hearing",
       "dementia"
     ],
-    "timestamp": 1762688938
+    "timestamp": 1763036243
   },
   {
     "domain": "beecoolbikes.com",
@@ -1541,63 +1537,63 @@
       ],
       "total_products_sampled": 163,
       "example_titles": [
+        "Bee Challenger",
         "Electric Bike Vibration Warning Light, Flashing, Anti-traffic, Wiring-free, Breathing",
         "Bee Adventurer X2",
         "Upgraded Rear Rack For Bee Zipper eTrike",
         "Ebike Front Basket Lightweight & Easy to Install",
         "Bee Runner",
         "Bee Defender Step-Thru",
-        "Bee Defender",
-        "Ebike Product Protection"
+        "Bee Defender"
       ]
     },
     "price_summary": {
       "min_price": 0.1,
       "max_price": 3999.99,
-      "avg_price": 319.82,
-      "num_prices": 809
+      "avg_price": 317.48,
+      "num_prices": 815
     },
     "social_links": {
       "instagram": [
-        "https://www.instagram.com/p/DPcfqwWCaXR/",
-        "https://www.instagram.com/p/CREi-b9N8-4/",
-        "https://www.instagram.com/p/DOCmWHjDxOZ/",
         "https://www.instagram.com/beecoolbikes/",
-        "https://www.instagram.com/p/CeOxxA3rWtT/",
         "https://instagram.com/beecoolbikes",
+        "https://www.instagram.com/p/DOCmWHjDxOZ/",
+        "https://www.instagram.com/p/CREi-b9N8-4/",
+        "https://www.instagram.com/p/CeOxxA3rWtT/",
+        "https://www.instagram.com/p/DPcfqwWCaXR/",
         "https://www.instagram.com/p/C2GiG50R6jJ/",
         "https://www.instagram.com/reel/DN7wrcmDFUZ/"
       ],
       "facebook": [
-        "https://www.facebook.com/Beecoolbikes/posts/pfbid02bAWBN84TL3BTjAVXkJ6FEH2RzS1t9ouxqQAyztyu3fSrhj4rNL8L4bewfqcMbngJl",
-        "https://www.facebook.com/groups/3076958389210069",
-        "https://www.facebook.com/share/p/1CYuphRtgX/",
-        "https://www.facebook.com/Beecoolbikes",
-        "https://www.facebook.com/share/p/1BdCicYcCX/",
         "https://www.facebook.com/share/p/19QjjVqUQc/",
+        "https://www.facebook.com/groups/253544117431284",
+        "https://www.facebook.com/share/p/1BdCicYcCX/",
+        "https://www.facebook.com/Beecoolbikes",
+        "https://www.facebook.com/share/p/1CYuphRtgX/",
         "https://www.facebook.com/groups/beecoolbikescommunity",
-        "https://www.facebook.com/groups/253544117431284"
+        "https://www.facebook.com/Beecoolbikes/posts/pfbid02bAWBN84TL3BTjAVXkJ6FEH2RzS1t9ouxqQAyztyu3fSrhj4rNL8L4bewfqcMbngJl",
+        "https://www.facebook.com/groups/3076958389210069"
       ],
       "youtube": [
-        "https://www.youtube.com/embed/N5eKujah1Ho",
-        "https://www.youtube.com/channel/UCk1w5dc_SxI49A54FdEpI5Q",
-        "https://www.youtube.com/embed/HWMxZVU4EdE",
-        "https://www.youtube.com/embed/dI4D5y69fmQ",
         "https://www.youtube.com/embed/0YrcfcwGEbI",
-        "https://www.youtube.com/embed/Dxzhtyo1d0k",
-        "https://www.youtube.com/embed/CasYIhhGmvI",
-        "https://www.youtube.com/embed/d0BXhAeK2ow",
-        "https://www.youtube.com/embed/ogEcHdOTXrw",
-        "https://www.youtube.com/embed/DbiDbq3poiI",
-        "https://www.youtube.com/embed/xKXClkqWM7E",
-        "https://www.youtube.com/embed/84WAKQO3W7Q",
-        "https://www.youtube.com/embed/H0kuK9tsN9o",
-        "https://www.youtube.com/embed/9TnzMYzTxGI",
-        "https://www.youtube.com/embed/ppLE69z5770",
+        "https://www.youtube.com/embed/P7RsNk7TQww",
+        "https://www.youtube.com/channel/UCk1w5dc_SxI49A54FdEpI5Q",
         "https://www.youtube.com/embed/IlrVVVPBnXs",
+        "https://www.youtube.com/embed/ppLE69z5770",
+        "https://www.youtube.com/embed/d0BXhAeK2ow",
+        "https://www.youtube.com/embed/dI4D5y69fmQ",
+        "https://www.youtube.com/embed/Dxzhtyo1d0k",
         "https://www.youtube.com/embed/uICkXt3RsRU",
+        "https://www.youtube.com/embed/84WAKQO3W7Q",
+        "https://www.youtube.com/embed/9TnzMYzTxGI",
+        "https://www.youtube.com/embed/ogEcHdOTXrw",
+        "https://www.youtube.com/embed/xKXClkqWM7E",
+        "https://www.youtube.com/embed/HWMxZVU4EdE",
         "https://www.youtube.com/embed/Q9RjFVrVpxk",
-        "https://www.youtube.com/embed/P7RsNk7TQww"
+        "https://www.youtube.com/embed/H0kuK9tsN9o",
+        "https://www.youtube.com/embed/DbiDbq3poiI",
+        "https://www.youtube.com/embed/N5eKujah1Ho",
+        "https://www.youtube.com/embed/CasYIhhGmvI"
       ],
       "twitter": [
         "https://twitter.com/BeecoolBikes"
@@ -1607,8 +1603,8 @@
     "landing_keywords": [
       "peaking motor",
       "rear suspension",
-      "lockable fork",
       "terrain e-bikes",
+      "lockable fork",
       "peaking",
       "rear",
       "bee",
@@ -1618,10 +1614,10 @@
       "bike",
       "fork",
       "beecool",
-      "bee adventurer",
-      "long range"
+      "beecool bikes",
+      "bee adventurer"
     ],
-    "timestamp": 1762688940
+    "timestamp": 1763036248
   },
   {
     "domain": "bugmd.com",
@@ -1919,7 +1915,7 @@
       "eliminate",
       "eliminate bugs"
     ],
-    "timestamp": 1762688943
+    "timestamp": 1763036250
   },
   {
     "domain": "carerspk.com",
@@ -2155,7 +2151,7 @@
     "price_summary": {
       "min_price": 5.99,
       "max_price": 169.16,
-      "avg_price": 67.37,
+      "avg_price": 67.02,
       "num_prices": 1879
     },
     "social_links": {
@@ -2187,7 +2183,7 @@
       "exclusive",
       "deals"
     ],
-    "timestamp": 1762688946
+    "timestamp": 1763036252
   },
   {
     "domain": "clarifion.com",
@@ -2345,10 +2341,10 @@
       "release clarifion",
       "technology eco-friendly"
     ],
-    "timestamp": 1762688947
+    "timestamp": 1763036253
   },
   {
-    "domain": "cleanomic.com",
+    "domain": "cleanomicessentials.com",
     "platform": "Shopify",
     "meta": {
       "id": 27802402903,
@@ -2367,7 +2363,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 11,
-      "published_products_count": 47,
+      "published_products_count": 46,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -2377,7 +2373,7 @@
       ],
       "offers_shop_pay_installments": true
     },
-    "description": "Cleanomic sells beauty products and related products.",
+    "description": "Cleanomicessentials sells beauty products and related products.",
     "collections": [
       {
         "title": "All",
@@ -2429,7 +2425,7 @@
       "vendors_top": [
         [
           "Cleanomic",
-          45
+          44
         ],
         [
           "CleanerCulture",
@@ -2466,15 +2462,11 @@
           1
         ],
         [
-          "Exclusive Offer",
-          1
-        ],
-        [
-          "YG_Laundry_Essential_Kit",
-          1
-        ],
-        [
           "not-on-sale",
+          1
+        ],
+        [
+          "threetagtest",
           1
         ]
       ],
@@ -2500,7 +2492,7 @@
         "reusable",
         "touchless"
       ],
-      "total_products_sampled": 47,
+      "total_products_sampled": 46,
       "example_titles": [
         "Laundry Detergent Bundle",
         "Clean Planet",
@@ -2515,8 +2507,8 @@
     "price_summary": {
       "min_price": 9.99,
       "max_price": 159.97,
-      "avg_price": 48.46,
-      "num_prices": 168
+      "avg_price": 47.96,
+      "num_prices": 164
     },
     "social_links": {
       "instagram": [
@@ -2544,7 +2536,7 @@
       "products",
       "sacrificing"
     ],
-    "timestamp": 1762688949
+    "timestamp": 1763036255
   },
   {
     "domain": "collarsandco.com",
@@ -2569,8 +2561,8 @@
         "US"
       ],
       "money_format": "${{amount}}",
-      "published_collections_count": 514,
-      "published_products_count": 1114,
+      "published_collections_count": 519,
+      "published_products_count": 1147,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -2707,19 +2699,19 @@
       "product_types_top": [
         [
           "Sweater",
-          327
+          357
         ],
         [
           "Shirts & Tops",
-          96
+          79
         ],
         [
           "Dress Shirts",
-          49
+          37
         ],
         [
           "Featherweight Flex Polo",
-          9
+          8
         ],
         [
           "Blazer",
@@ -2747,83 +2739,83 @@
       "tags_top": [
         [
           "Design_Solid",
-          457
+          464
         ],
         [
           "Gender_Men",
-          428
-        ],
-        [
-          "Nordstrom",
-          369
+          427
         ],
         [
           "Age_Adults",
-          363
+          379
         ],
         [
-          "7_31_Greek_Import",
-          239
+          "Nordstrom",
+          335
         ],
         [
           "Greek",
-          239
+          236
         ],
         [
           "Collegiate Collection",
-          206
+          209
+        ],
+        [
+          "7_31_Greek_Import",
+          205
         ],
         [
           "New Arrivals Collection",
-          191
+          172
         ],
         [
           "Style_Quarter Zip",
-          174
+          170
         ],
         [
-          "Type_Sweater",
-          173
+          "Color_Grey",
+          169
         ]
       ],
       "title_terms_top": [
         "quarter",
         "zip",
-        "pullover",
-        "cotton",
         "grey",
-        "black",
-        "with",
         "sweater",
+        "cotton",
         "cashmere",
-        "collar",
-        "semi-spread",
-        "white",
         "touch",
-        "polo",
+        "with",
+        "pullover",
+        "black",
+        "trim",
+        "white",
+        "and",
+        "collar",
+        "luxury",
+        "semi-spread",
         "cloud",
         "heather",
-        "trim",
-        "delta",
-        "drirelease",
-        "performance"
+        "polo",
+        "delta"
       ],
       "total_products_sampled": 500,
       "example_titles": [
-        "Apex Tech Pants Grey",
-        "Apex Tech Pants Navy",
-        "Apex Tech Pants Light Beige",
-        "Apex Tech Pants Ivory",
-        "Apex Tech Pants Green",
-        "Sorrento Sneaker Brown Suede",
-        "Sorrento Sneaker Grey Suede",
-        "Sorrento Sneaker Black Pebble Grain"
+        "Zeta Psi Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Zeta Beta Tau Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Theta Tau Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Theta Chi Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Sigma Tau Gamma Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Sigma Pi Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Sigma Phi Epsilon Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater",
+        "Sigma Nu Grey with Grey Trim Luxury Touch Cotton and Cashmere Quarter Zip Sweater"
       ]
     },
     "price_summary": {
       "min_price": 96.0,
       "max_price": 448.0,
-      "avg_price": 123.57,
+      "avg_price": 124.26,
       "num_prices": 2662
     },
     "social_links": {
@@ -2855,7 +2847,7 @@
       "reserve",
       "polo shirt"
     ],
-    "timestamp": 1762688954
+    "timestamp": 1763036260
   },
   {
     "domain": "cosmicmonica.com",
@@ -2916,7 +2908,7 @@
       ],
       "money_format": "£{{amount}}",
       "published_collections_count": 3,
-      "published_products_count": 13,
+      "published_products_count": 10,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "maestro",
@@ -2948,58 +2940,58 @@
       "vendors_top": [
         [
           "CosmicMonica",
-          13
+          10
         ]
       ],
       "tags_top": [
         [
-          "add ons",
-          2
+          "download",
+          6
         ],
         [
-          "download",
+          "add ons",
           2
         ]
       ],
       "title_terms_top": [
-        "reading",
-        "card",
+        "download",
+        "instant",
+        "pdf",
+        "the",
         "cosmic",
         "crystal",
-        "download",
-        "full",
-        "instant",
-        "psychic",
-        "samhain",
-        "your",
+        "that",
+        "actually",
+        "blocks",
+        "card",
         "chakra",
         "club",
+        "deal",
+        "difference",
         "emotions",
-        "for",
-        "gift",
-        "gratuity",
-        "guide",
-        "membership",
-        "message",
-        "monica"
+        "energies",
+        "energy",
+        "evidence",
+        "fantasy",
+        "fear"
       ],
-      "total_products_sampled": 13,
+      "total_products_sampled": 10,
       "example_titles": [
+        "Manifestation That Actually Works: Turning Energy Into Evidence (Instant PDF Download)",
+        "Money Blocks: The Hidden Energies That Keep You Stuck (Instant PDF Download)",
+        "Intuition vs Fear: How to Tell the Difference (Instant PDF Download)",
+        "Twin Flames: The Real Deal vs The Fantasy (Instant PDF Download)",
         "Monica’s Cosmic Rituals",
-        "Samhain Ritual",
-        "Thin Veil Samhain Reading",
-        "Repayment",
-        "Show Your Gratuity",
         "Cosmic Club Membership",
-        "Pick Your Card",
-        "Full Psychic Tarot Reading"
+        "Oracle Card Message",
+        "Chakra Crystal Guide (Instant Download)"
       ]
     },
     "price_summary": {
-      "min_price": 1.0,
-      "max_price": 250.0,
-      "avg_price": 43.32,
-      "num_prices": 37
+      "min_price": 9.0,
+      "max_price": 67.5,
+      "avg_price": 26.15,
+      "num_prices": 17
     },
     "social_links": {},
     "buy_with_prime": false,
@@ -3020,7 +3012,7 @@
       "tarot reading",
       "clarity"
     ],
-    "timestamp": 1762688956
+    "timestamp": 1763036263
   },
   {
     "domain": "cozybabywear.com",
@@ -3251,7 +3243,7 @@
     "price_summary": {
       "min_price": 19.0,
       "max_price": 168.99,
-      "avg_price": 47.63,
+      "avg_price": 47.6,
       "num_prices": 174
     },
     "social_links": {
@@ -3280,7 +3272,7 @@
       "condition",
       "’ll"
     ],
-    "timestamp": 1762688958
+    "timestamp": 1763036265
   },
   {
     "domain": "curtarra.com",
@@ -3443,7 +3435,6 @@
         "MU",
         "MV",
         "MW",
-        "MX",
         "MY",
         "MZ",
         "NA",
@@ -3535,8 +3526,8 @@
         "ZW"
       ],
       "money_format": "${{amount}}",
-      "published_collections_count": 51,
-      "published_products_count": 563,
+      "published_collections_count": 52,
+      "published_products_count": 565,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -3661,23 +3652,23 @@
         "handle": "new-arrival"
       },
       {
-        "title": "Odd Window Curtains",
-        "handle": "odd-window-curtains"
+        "title": "No-Drill Roman Shades",
+        "handle": "no-drill-roman-shades"
       },
       {
-        "title": "Outdoor Curtains",
-        "handle": "outdoor-curtains"
+        "title": "Odd Window Curtains",
+        "handle": "odd-window-curtains"
       }
     ],
     "offerings": {
       "product_types_top": [
         [
           "Swatch",
-          335
+          334
         ],
         [
           "Curtain",
-          74
+          75
         ],
         [
           "Accessories",
@@ -3707,11 +3698,11 @@
       "vendors_top": [
         [
           "Swatch",
-          315
+          314
         ],
         [
           "Curtarra",
-          184
+          185
         ],
         [
           "Seel",
@@ -3721,11 +3712,11 @@
       "tags_top": [
         [
           "texture:solid",
-          232
+          231
         ],
         [
           "tag:customisable",
-          138
+          139
         ],
         [
           "texture:linen",
@@ -3733,7 +3724,7 @@
         ],
         [
           "tab:dev-test-tab-titles-1",
-          105
+          106
         ],
         [
           "texture:texture",
@@ -3757,7 +3748,7 @@
         ],
         [
           "texture:sheer",
-          50
+          48
         ]
       ],
       "title_terms_top": [
@@ -3771,8 +3762,8 @@
         "lesley",
         "green",
         "shades",
-        "beige",
         "elma",
+        "beige",
         "semi",
         "light",
         "oakley",
@@ -3784,75 +3775,75 @@
       ],
       "total_products_sampled": 500,
       "example_titles": [
+        "Giselle Silk Blend Luxurious Sheen Curtains",
+        "White Blackout Lining",
         "Lesley Custom Linen No Drill Roman Shades",
         "Sandra No Drill Custom Cotton Linen Sheer Roman Shades",
         "Jolie Toile De Jouy Patterned No Drill  Roman Shades",
         "Gary Linen Look 100% Blackout No Drill Roman Shades",
         "Sabrina Custom Linen No Drill Roman Shades",
-        "Bob Clear Acrylic Drape Wands Set of 2pcs",
-        "Giselle - Oxblood Red",
-        "Giselle - Iced Coffee"
+        "Bob Clear Acrylic Drape Wands Set of 2pcs"
       ]
     },
     "price_summary": {
       "min_price": 0.98,
       "max_price": 684.1,
-      "avg_price": 86.88,
-      "num_prices": 1315
+      "avg_price": 87.69,
+      "num_prices": 1324
     },
     "social_links": {
       "instagram": [
-        "https://www.instagram.com/p/DQHdk1SDKUk/",
-        "https://www.instagram.com/p/DPDHqKwE29U/",
-        "https://www.instagram.com/p/DPfcY5IjEJi/",
-        "https://www.instagram.com/p/DO1DraPAV34/",
-        "https://www.instagram.com/reel/DOALG_LD5ux/",
-        "https://www.instagram.com/reel/DNuJcUmxB0k/",
-        "https://www.instagram.com/p/DO8yhObCX25/",
-        "https://www.instagram.com/reel/DQiVtCzjpFg/",
-        "https://www.instagram.com/p/DQanQiYjRxj/",
-        "https://www.instagram.com/curtarra_curtains/",
-        "https://www.instagram.com/p/DPpvlfADh6w/",
-        "https://www.instagram.com/p/DN8apsuDBzb/",
-        "https://www.instagram.com/p/DQeoukBgeEb/",
-        "https://www.instagram.com/p/DOtVwAViR2d/",
-        "https://www.instagram.com/reel/DOjvRedCDBH/",
-        "https://www.instagram.com/p/DOyfWhviFAi/",
-        "https://www.instagram.com/p/DPy3OXygYAF/",
-        "https://www.instagram.com/reel/DPIRTiID1yp/",
-        "https://www.instagram.com/p/DN9mMYADMTu/",
-        "https://www.instagram.com/p/DOqw9L6AaGu/",
-        "https://www.instagram.com/p/DOIak8SDXbA/",
-        "https://www.instagram.com/p/DPiBMR5ifDW/",
-        "https://www.instagram.com/p/DQKvEWnCdlj/",
-        "https://www.instagram.com/p/DQP4pjpDQic/",
-        "https://www.instagram.com/p/DPFsciYiVpq/",
-        "https://www.instagram.com/reel/DO3pchlkava/",
-        "https://www.instagram.com/reel/DOSJQhpCWQ8/",
-        "https://www.instagram.com/p/DPK2BjADHcC/",
-        "https://www.instagram.com/reel/DP-LtRCD953/",
-        "https://www.instagram.com/p/DN3RD7zxO6B/",
-        "https://www.instagram.com/p/DNzTBD4WPLh/",
-        "https://www.instagram.com/p/DQNT0gfleqr/",
-        "https://www.instagram.com/p/DPO0FYQDfHP/",
-        "https://www.instagram.com/p/DQUVjDrFZE4/",
-        "https://www.instagram.com/p/DOelvOHCAF0/",
-        "https://www.instagram.com/p/DQW6WILCPFy/",
-        "https://www.instagram.com/p/DOOcNe2DYir/",
-        "https://www.instagram.com/p/DOGt1Z0jIO2/",
-        "https://www.instagram.com/reel/DP6lqrpFbZI/",
-        "https://www.instagram.com/p/DObUMRbjP3p/",
-        "https://www.instagram.com/reel/DPP_wdjiows/",
-        "https://www.instagram.com/p/DO_XVCFjH09/",
-        "https://www.instagram.com/p/DOPkgwxCBjP/",
-        "https://www.instagram.com/p/DP7m5tggTWj/",
-        "https://www.instagram.com/reel/DPsUZFZESjn/",
+        "https://www.instagram.com/reel/DQwqW9QkUHu/",
         "https://www.instagram.com/reel/DPaS6xkk6xV/",
         "https://www.instagram.com/p/DOmy6JGjIu0/",
-        "https://www.instagram.com/reel/DPVJSZnCuiy/",
+        "https://www.instagram.com/p/DPDHqKwE29U/",
+        "https://www.instagram.com/p/DOqw9L6AaGu/",
+        "https://www.instagram.com/reel/DP6lqrpFbZI/",
+        "https://www.instagram.com/p/DQ2uRSUjE_4/",
+        "https://www.instagram.com/reel/DP-LtRCD953/",
+        "https://www.instagram.com/p/DQUVjDrFZE4/",
         "https://www.instagram.com/p/DOYvKm6iYUr/",
+        "https://www.instagram.com/reel/DOjvRedCDBH/",
+        "https://www.instagram.com/p/DQo76zbiM3E/",
+        "https://www.instagram.com/p/DOelvOHCAF0/",
+        "https://www.instagram.com/reel/DPVJSZnCuiy/",
+        "https://www.instagram.com/reel/DPP_wdjiows/",
+        "https://www.instagram.com/p/DOGt1Z0jIO2/",
+        "https://www.instagram.com/reel/DOALG_LD5ux/",
+        "https://www.instagram.com/p/DObUMRbjP3p/",
+        "https://www.instagram.com/p/DPfcY5IjEJi/",
+        "https://www.instagram.com/reel/DOSJQhpCWQ8/",
+        "https://www.instagram.com/reel/DO3pchlkava/",
+        "https://www.instagram.com/p/DQzPFx2kzMN/",
+        "https://www.instagram.com/p/DQrgXMeki_l/",
+        "https://www.instagram.com/p/DQHdk1SDKUk/",
+        "https://www.instagram.com/p/DQP4pjpDQic/",
+        "https://www.instagram.com/p/DOOcNe2DYir/",
+        "https://www.instagram.com/p/DO1DraPAV34/",
+        "https://www.instagram.com/p/DO8yhObCX25/",
+        "https://www.instagram.com/p/DPK2BjADHcC/",
+        "https://www.instagram.com/p/DQKvEWnCdlj/",
+        "https://www.instagram.com/p/DP7m5tggTWj/",
+        "https://www.instagram.com/p/DPFsciYiVpq/",
         "https://www.instagram.com/p/DP1cBPrDVAv/",
-        "https://www.instagram.com/p/DQE4yHtjDao/"
+        "https://www.instagram.com/p/DOyfWhviFAi/",
+        "https://www.instagram.com/p/DOPkgwxCBjP/",
+        "https://www.instagram.com/reel/DPIRTiID1yp/",
+        "https://www.instagram.com/p/DQanQiYjRxj/",
+        "https://www.instagram.com/p/DPy3OXygYAF/",
+        "https://www.instagram.com/reel/DPsUZFZESjn/",
+        "https://www.instagram.com/reel/DQiVtCzjpFg/",
+        "https://www.instagram.com/p/DQE4yHtjDao/",
+        "https://www.instagram.com/p/DPpvlfADh6w/",
+        "https://www.instagram.com/p/DQNT0gfleqr/",
+        "https://www.instagram.com/curtarra_curtains/",
+        "https://www.instagram.com/p/DQ69eTEDitZ/",
+        "https://www.instagram.com/p/DOtVwAViR2d/",
+        "https://www.instagram.com/reel/DQ1z-_CjD8y/",
+        "https://www.instagram.com/p/DPO0FYQDfHP/",
+        "https://www.instagram.com/p/DO_XVCFjH09/",
+        "https://www.instagram.com/p/DOIak8SDXbA/",
+        "https://www.instagram.com/p/DPiBMR5ifDW/"
       ],
       "facebook": [
         "https://www.facebook.com/Curtarra"
@@ -3876,7 +3867,7 @@
       "sheer curtains",
       "curtains white"
     ],
-    "timestamp": 1762688963
+    "timestamp": 1763036271
   },
   {
     "domain": "drinkbrez.com",
@@ -4183,7 +4174,7 @@
       "store",
       "relieving"
     ],
-    "timestamp": 1762688965
+    "timestamp": 1763036273
   },
   {
     "domain": "funnyfuzzy.com",
@@ -4245,8 +4236,8 @@
         "US"
       ],
       "money_format": "${{amount}}",
-      "published_collections_count": 705,
-      "published_products_count": 1121,
+      "published_collections_count": 678,
+      "published_products_count": 1083,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -4383,34 +4374,34 @@
       "product_types_top": [
         [
           "Couch Cover",
-          186
+          194
         ],
         [
           "Dog Beds",
-          97
+          94
         ],
         [
           "Dog Stairs",
           23
         ],
         [
-          "Dog Toys",
-          23
+          "Dog Car Seat",
+          22
         ],
         [
-          "Dog Car Seat",
+          "Dog Toys",
           21
         ],
         [
-          "Pet Carriers & Crates",
+          "Bedding",
           18
         ],
         [
-          "Bedding",
+          "Cat Beds",
           16
         ],
         [
-          "Cat Beds",
+          "Pet Carriers & Crates",
           16
         ]
       ],
@@ -4427,15 +4418,19 @@
       "tags_top": [
         [
           "selleasy_shop_all",
-          362
+          375
         ],
         [
           "Done",
-          283
+          280
         ],
         [
           "selleasy_couch_covers",
-          134
+          141
+        ],
+        [
+          "clearance",
+          102
         ],
         [
           "selleasy_couch_cover_A",
@@ -4443,76 +4438,72 @@
         ],
         [
           "selleasy_dog_bed",
-          92
+          87
+        ],
+        [
+          "250618-clearance",
+          70
         ],
         [
           "giftfordog",
           70
         ],
         [
-          "clearance",
-          69
-        ],
-        [
-          "250618-clearance",
+          "250702clearance",
           65
         ],
         [
           "Sectional Couch Covers",
-          61
-        ],
-        [
-          "selleasy_couch_cover_B",
-          61
+          65
         ]
       ],
       "title_terms_top": [
-        "dog",
         "cover",
         "couch",
+        "dog",
         "bed",
         "plush",
         "sofa",
         "non-slip",
         "pet",
         "chenille",
-        "with",
         "cat",
+        "with",
         "soft",
         "washable",
-        "waterproof",
-        "large",
-        "car",
-        "mat",
+        "cozy",
         "orthopedic",
-        "faux",
-        "breathable"
+        "waterproof",
+        "car",
+        "large",
+        "breathable",
+        "mat"
       ],
       "total_products_sampled": 500,
       "example_titles": [
-        "Plush Warm Stripe Orthopedic Dog & Cat Sofa Bed With Pillows- Grove Couch",
-        "Travel Safety All-Season Bolster Dog Car Seat Bed - BaseCamp",
-        "Personalized Large Thick Scratch-resistant Spine Protection Dog Cushion Beds",
-        "Thickened Herringbone Warming Plush Multi-Functional Blanket Couch Cover",
-        "Luxury Nordic Jacquard Fleece Thickened Anti-Scratch Couch Cover",
-        "Modern Comfort Plush Multifunctional Blanket Sofa Protection Couch Cover",
-        "Stylish Color-Blocked Faux Rabbit Fur Soft Non-Slip Irregularly Shaped Couch Cover",
-        "Plush Warmth Removable Orthopedic Wedge Bolster Dog Sofa Bed - CozySlope"
+        "Detachable Chessboard Plaid Handcrafted Dog Stairs with Storage - Foldable Steps",
+        "Diamond-Pattern Plush Couch Cover",
+        "Plush Stone-Shaped Creative Texture Stretch Universal Fully Fitted Couch Cover",
+        "Leopard Print Plush Quilted Couch Cover",
+        "Chenille All-Season Irregular-Shaped Non-Slip Sofa Cushion",
+        "Plush Leaf Jacquard Non-Slip Pet Mat Pet Bed",
+        "Plush Color-Blocked Creative Bolster Pet Bed",
+        "Plush Warm Stripe Orthopedic Dog & Cat Sofa Bed With Pillows- Grove Couch"
       ]
     },
     "price_summary": {
       "min_price": 4.99,
       "max_price": 368.9,
-      "avg_price": 70.55,
-      "num_prices": 7670
+      "avg_price": 70.53,
+      "num_prices": 8016
     },
     "social_links": {
       "instagram": [
         "https://www.instagram.com/funnyfuzzy_pet/"
       ],
       "facebook": [
-        "https://www.facebook.com/groups/funnyfuzzy/",
-        "https://www.facebook.com/profile.php"
+        "https://www.facebook.com/profile.php",
+        "https://www.facebook.com/groups/funnyfuzzy/"
       ]
     },
     "buy_with_prime": false,
@@ -4533,7 +4524,7 @@
       "deals",
       "home products"
     ],
-    "timestamp": 1762688973
+    "timestamp": 1763036277
   },
   {
     "domain": "gleefullsupps.com",
@@ -4561,7 +4552,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 36,
-      "published_products_count": 229,
+      "published_products_count": 228,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -4608,10 +4599,6 @@
       {
         "title": "Best Sellers",
         "handle": "best-sellers-1"
-      },
-      {
-        "title": "Black Friday Sneak Peek",
-        "handle": "black-friday-sneak-peek"
       },
       {
         "title": "BOGO",
@@ -4692,6 +4679,10 @@
       {
         "title": "SELF CARE SUNDAY",
         "handle": "self-care"
+      },
+      {
+        "title": "Shop All Collection",
+        "handle": "shop-all-collection"
       }
     ],
     "offerings": {
@@ -4704,7 +4695,7 @@
       "vendors_top": [
         [
           "Over 30 Hormone Support",
-          141
+          140
         ],
         [
           "Gleefull Supplements",
@@ -4734,7 +4725,7 @@
         ],
         [
           "nobundles",
-          23
+          24
         ],
         [
           "hormone-support-noup",
@@ -4779,13 +4770,13 @@
         "bottles",
         "system"
       ],
-      "total_products_sampled": 229,
+      "total_products_sampled": 228,
       "example_titles": [
         "FREE: 6 Bottles of Meno Shred Fat Burner",
         "FREE: 3 Bottles of Meno Shred Fat Burner",
         "FREE: Meno Shred Fat Burner",
         "Over 30 Hormone Support (BFCM)",
-        "_Over 30 Hormone Support_ (O30HS PDP Revamp)",
+        "O30HS PDP",
         "'Meno-Burn Collagen",
         "Mega Bundle",
         "FREE: GleeFull Merchandise & Receipe EBook"
@@ -4794,7 +4785,7 @@
     "price_summary": {
       "min_price": 10.0,
       "max_price": 874.0,
-      "avg_price": 196.66,
+      "avg_price": 196.38,
       "num_prices": 403
     },
     "social_links": {
@@ -4820,7 +4811,7 @@
       "energy",
       "digestion"
     ],
-    "timestamp": 1762688975
+    "timestamp": 1763036280
   },
   {
     "domain": "groundingwell.com",
@@ -4921,7 +4912,7 @@
       ],
       "money_format": "<span class=money>${{amount}}</span>",
       "published_collections_count": 4,
-      "published_products_count": 53,
+      "published_products_count": 54,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -4931,7 +4922,7 @@
       ],
       "offers_shop_pay_installments": false
     },
-    "description": "Groundingwell sells outdoor equipment and related products.",
+    "description": "Groundingwell sells electronics and related products.",
     "collections": [
       {
         "title": "All Products",
@@ -4959,7 +4950,7 @@
         ],
         [
           "GroundingWell",
-          14
+          15
         ]
       ],
       "tags_top": [
@@ -5010,12 +5001,12 @@
         "mat",
         "adapter",
         "bundle",
+        "grounding",
         "shipping",
         "socks",
         "wholesale",
         "detox",
         "fitted",
-        "grounding",
         "insurance",
         "lifetime",
         "mats",
@@ -5026,23 +5017,23 @@
         "test",
         "wire"
       ],
-      "total_products_sampled": 53,
+      "total_products_sampled": 54,
       "example_titles": [
+        "Grounding Extension Cord",
         "GroundingWell™ Bedsheet",
         "GroundingShoesBLK44",
         "GroundingShoesBLK43",
         "GroundingShoesBLK42",
         "GroundingShoesBLK41",
         "GroundingShoesBLK40",
-        "GroundingShoesBLK39",
-        "GroundingShoesBLK38"
+        "GroundingShoesBLK39"
       ]
     },
     "price_summary": {
       "min_price": 4.5,
       "max_price": 379.0,
-      "avg_price": 172.32,
-      "num_prices": 512
+      "avg_price": 171.06,
+      "num_prices": 513
     },
     "social_links": {
       "instagram": [
@@ -5054,23 +5045,23 @@
     },
     "buy_with_prime": false,
     "landing_keywords": [
-      "grounding sheets",
-      "grounding mats",
-      "grounding",
-      "earth",
-      "premium grounding",
-      "grounded",
       "catch fire",
+      "earth",
+      "grounding",
       "healing power",
-      "sheets",
-      "mats",
-      "inflammation",
-      "reduce chronic",
-      "chronic pain",
-      "boost sleep",
-      "sleep quality"
+      "earth healing",
+      "earth surface",
+      "power",
+      "electrons",
+      "fire",
+      "catch",
+      "grounding matters",
+      "excess electrons",
+      "explode",
+      "directly",
+      "ground"
     ],
-    "timestamp": 1762688977
+    "timestamp": 1763036282
   },
   {
     "domain": "hobbytron.com",
@@ -5090,8 +5081,8 @@
         "US"
       ],
       "money_format": "${{amount}}",
-      "published_collections_count": 82,
-      "published_products_count": 695,
+      "published_collections_count": 84,
+      "published_products_count": 698,
       "shopify_pay_enabled_card_brands": [
         "visa",
         "master",
@@ -5101,7 +5092,7 @@
       ],
       "offers_shop_pay_installments": true
     },
-    "description": "Hobbytron sells sports gear and related products.",
+    "description": "Hobbytron sells toys and games and related products.",
     "collections": [
       {
         "title": "12 years or older",
@@ -5248,7 +5239,7 @@
         ],
         [
           "Other",
-          33
+          30
         ],
         [
           "Flying Figure",
@@ -5262,11 +5253,11 @@
       "vendors_top": [
         [
           "Hobbytron",
-          275
+          272
         ],
         [
           "HOBBYTRON",
-          179
+          182
         ],
         [
           "hobbytron",
@@ -5339,21 +5330,21 @@
       ],
       "total_products_sampled": 500,
       "example_titles": [
+        "FiFA Soccer Hover Ball",
+        "2 Pack - RC Lamborghini Aventador & LAPD Police Lamborghini Pursuit RC Set",
+        "Bundle",
         "Stitch Flying Heli Ball",
         "1:10 McLaren 765LT 2.4Ghz RC Car - Comes with Rechargeable Battery",
         "1:10 Porsche GT3 RS 2.4Ghz RC Car - Comes with Rechargeable Battery",
         "Spidey and His Amazing Friends Tool Bench Playset (55 Pieces)",
-        "Toy Story Wooden Tabletop Air Hockey - Woody and Buzz Lightyear",
-        "Minnie Mouse Wooden Tabletop Air Hockey",
-        "Mandalorian Ahsoka Tano Heli Ball",
-        "Mandalorian Mando Helmet Heli Ball"
+        "Toy Story Wooden Tabletop Air Hockey - Woody and Buzz Lightyear"
       ]
     },
     "price_summary": {
       "min_price": 2.5,
       "max_price": 249.95,
-      "avg_price": 36.15,
-      "num_prices": 576
+      "avg_price": 36.11,
+      "num_prices": 575
     },
     "social_links": {
       "instagram": [
@@ -5363,39 +5354,28 @@
         "https://www.facebook.com/hobbytron"
       ],
       "youtube": [
-        "https://www.youtube.com/embed/0MWwBlv0GPw",
-        "https://www.youtube.com/embed/K1skuotuGB8",
-        "https://www.youtube.com/embed/2lavDylsf5o",
-        "https://www.youtube.com/embed/05PZt_C2fNU",
-        "https://www.youtube.com/embed/MYhXqmJdovI",
-        "https://www.youtube.com/embed/vlZwKseApc8",
-        "https://www.youtube.com/channel/UCkQy38PVBRk-JxngGkAtxXg",
-        "https://www.youtube.com/embed/cL15zHk92BI",
-        "https://www.youtube.com/embed/8GrCAWdxihI",
-        "https://www.youtube.com/embed/t3TjkwpSBg0",
-        "https://www.youtube.com/embed/usgJuLtBudc",
-        "https://www.youtube.com/embed/q4pPmik5QKU"
+        "https://www.youtube.com/channel/UCkQy38PVBRk-JxngGkAtxXg"
       ]
     },
     "buy_with_prime": false,
     "landing_keywords": [
-      "kylie jenner",
-      "trending celebrities",
-      "heli ball",
-      "elsa heli",
-      "mike tyson",
-      "top trending",
-      "head ufo",
-      "big head",
-      "kylie",
-      "sculpted ufo",
-      "tyson kids",
-      "champion set",
-      "families love",
-      "kids boxing",
-      "boxing champion"
+      "handyman suitcase",
+      "spidey handyman",
+      "hobbytron",
+      "transformers",
+      "adventures founded",
+      "dancing robot",
+      "megatron dancing",
+      "hobbytron magical",
+      "robots bodhi",
+      "magical world",
+      "suitcase playset",
+      "robot watch",
+      "save",
+      "transformers dancing",
+      "watch megatron"
     ],
-    "timestamp": 1762688980
+    "timestamp": 1763036285
   },
   {
     "domain": "inpeaceful.com",
@@ -5652,11 +5632,11 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 2,
-      "published_products_count": 51,
+      "published_products_count": 20,
       "shopify_pay_enabled_card_brands": [],
       "offers_shop_pay_installments": false
     },
-    "description": "Inpeaceful sells beauty products and related products.",
+    "description": "Inpeaceful sells jewelry and related products.",
     "collections": [
       {
         "title": "Home page",
@@ -5668,40 +5648,7 @@
       }
     ],
     "offerings": {
-      "product_types_top": [
-        [
-          "English",
-          2
-        ],
-        [
-          "987-17 / FSS",
-          1
-        ],
-        [
-          "EMM",
-          1
-        ],
-        [
-          "EN",
-          1
-        ],
-        [
-          "ENN-VHH",
-          1
-        ],
-        [
-          "Health & Beauty",
-          1
-        ],
-        [
-          "JYL",
-          1
-        ],
-        [
-          "TLM",
-          1
-        ]
-      ],
+      "product_types_top": [],
       "vendors_top": [
         [
           "Womdf",
@@ -5709,94 +5656,53 @@
         ],
         [
           "mysite",
-          10
+          4
         ],
         [
-          "Inpeaceful",
-          3
-        ],
-        [
-          "mySite",
-          2
-        ],
-        [
-          "1688",
+          "Shop",
           1
         ]
       ],
-      "tags_top": [
-        [
-          "body",
-          2
-        ],
-        [
-          "Best Seller",
-          1
-        ],
-        [
-          "Health Care",
-          1
-        ],
-        [
-          "Personal Care",
-          1
-        ],
-        [
-          "beauty",
-          1
-        ],
-        [
-          "health",
-          1
-        ],
-        [
-          "health care",
-          1
-        ],
-        [
-          "perfume",
-          1
-        ]
-      ],
+      "tags_top": [],
       "title_terms_top": [
-        "off",
         "heart",
         "earrings",
-        "skin",
-        "day",
-        "last",
-        "lovilds",
         "ring",
         "bracelet",
-        "cream",
-        "for",
-        "sale",
-        "the",
-        "with",
-        "bee",
-        "discount",
-        "hours",
-        "limited",
-        "natural",
-        "pain"
+        "adjustable",
+        "chain",
+        "christmas",
+        "dangle",
+        "delicate",
+        "design",
+        "lights",
+        "shining",
+        "silver",
+        "solar",
+        "tassel",
+        "zircon",
+        "zirconia",
+        "14k",
+        "6-pack",
+        "all-match"
       ],
-      "total_products_sampled": 51,
+      "total_products_sampled": 20,
       "example_titles": [
-        "Alisanda™ VitalEngine Pro-The #1 5-in-1 at-home trainer that reverses ED &amp; PE with advanced precision",
-        "𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑺𝒕𝒐𝒓𝒆👩‍⚕️🎉| Regain youthful skin nown 💫STDEI® BOTOX & VITA A RETINOL SHOT Wrinkle Lift Tightening Cream",
-        "[Effective in one second]LOVILDS™ Men's Private Care Essential Oil",
-        "🔝 Transform Your World in an Instant: The Alisanda Smart Ring Does It All!",
-        "🦩Last Day Discount🦩 💕Turn Boring Nights Into Blushing Moments —Wear It. Control It. Love It.💕",
-        "💖Limited time discount sale🚀 - HZA™ Tattoo Dissolving Gel",
-        "✨Clinclii™  Whitening Strips – Professional Teeth Whitening at Home(UPGRADED VERSION)",
-        "Tongue licking vibrating finger sleeve"
+        "Collapsible LED Camping Lanterns Lightweight Waterproof Solar",
+        "🎅Christmas Claus Solar Kettle Lights",
+        "🎄🎁6-pack of moving Christmas lights",
+        "🔥🔥360° Adjustable Vacuum Magnetic Phone Holder",
+        "Opening Adjustable All-match Ring",
+        "Natural Stone Bracelet",
+        "Multi Layers Thin Chain Bracelet",
+        "Mini Delicate Heart Shaped Stud Earrings"
       ]
     },
     "price_summary": {
       "min_price": 3.99,
-      "max_price": 209.0,
-      "avg_price": 41.08,
-      "num_prices": 262
+      "max_price": 53.99,
+      "avg_price": 24.14,
+      "num_prices": 85
     },
     "social_links": {},
     "buy_with_prime": false,
@@ -5817,7 +5723,7 @@
       "day",
       "guarantee"
     ],
-    "timestamp": 1762688981
+    "timestamp": 1763036287
   },
   {
     "domain": "puranutrausa.com",
@@ -5965,7 +5871,7 @@
       "stick pencil",
       "ended triangular"
     ],
-    "timestamp": 1762688983
+    "timestamp": 1763036288
   },
   {
     "domain": "cozytraildel.com",
@@ -6369,7 +6275,7 @@
     "price_summary": {
       "min_price": 19.99,
       "max_price": 79.99,
-      "avg_price": 34.88,
+      "avg_price": 34.86,
       "num_prices": 134
     },
     "social_links": {},
@@ -6391,7 +6297,7 @@
       "women butterfly",
       "unisex summer"
     ],
-    "timestamp": 1762688984
+    "timestamp": 1763036291
   },
   {
     "domain": "etherealing.com",
@@ -6648,7 +6554,7 @@
       ],
       "money_format": "${{amount}}",
       "published_collections_count": 2,
-      "published_products_count": 41,
+      "published_products_count": 49,
       "shopify_pay_enabled_card_brands": [],
       "offers_shop_pay_installments": false
     },
@@ -6678,6 +6584,10 @@
           1
         ],
         [
+          "Gift",
+          1
+        ],
+        [
           "Houseware & Kitchen",
           1
         ],
@@ -6689,18 +6599,18 @@
       "vendors_top": [
         [
           "Etherealing",
-          13
+          17
         ],
         [
           "eprolo",
           11
         ],
         [
-          "Aesthelix",
-          2
+          "mysite",
+          3
         ],
         [
-          "mysite",
+          "Aesthelix",
           2
         ],
         [
@@ -6754,41 +6664,41 @@
         "christmas",
         "necklace",
         "ring",
-        "your",
         "the",
+        "your",
+        "for",
         "zircon",
         "&amp",
         "with",
         "every",
-        "for",
         "simple",
         "steel",
         "18k",
+        "and",
         "effortlessly",
+        "gift",
         "holiday",
         "inlaid",
         "jewelry",
-        "keep",
-        "more",
-        "pendant"
+        "keep"
       ],
-      "total_products_sampled": 41,
+      "total_products_sampled": 49,
       "example_titles": [
-        "🎄 10-Pack Red Peppermint Knob Covers — The Perfect Finishing Touch for Your Holiday Decor",
-        "🎅24-Piece Christmas Themed Magnetic Sticker-Reuse Every Holiday Season!",
-        "🔥 Portable Heater – Warm Every Room Effortlessly! 🔥",
-        "🔥Buy More Save More🔥Household Multifunctional Telescopic Folding Multi-layer Pants Storage Rack",
-        "🎁Hot Sale Promotion 63% OFF🔥 6-Pack Christmas Mini Window Wreaths with Ribbon Bows",
-        "All-in-One Vacuum Sealer with 10 Free Bags — Fresh Food Made Simple!",
-        "🌿 2-in-1 Waste-Collecting Peeler – Peel Faster, Cleaner &amp; Smarter!",
-        "Odd Pebble Cable Organizer Series-Where function meets playful design."
+        "🎁The Most Playfully Annoying Gift",
+        "💥4PCS Soft Matte Silicone Shark Clips – Gentle, Durable & Slip-Free",
+        "🎅🔥Christmas Santa and Mrs. Claus Campfire Nightlight",
+        "🧸Baby Head Protection Backpack – Pediatrician-Approved Safety Gear for Early Walkers",
+        "🌟Tiny Arms, Big Heart: A Necklace for Love That Lasts",
+        "🐶🐱Intelligent Mist Pet Grooming Brush",
+        "🎮Smart Nine-Grid Brain Training Game Console",
+        "Padded Light Blocking 3D Sleep Mask"
       ]
     },
     "price_summary": {
       "min_price": 3.99,
       "max_price": 82.99,
-      "avg_price": 27.92,
-      "num_prices": 133
+      "avg_price": 27.76,
+      "num_prices": 164
     },
     "social_links": {},
     "buy_with_prime": false,
@@ -6809,7 +6719,7 @@
       "customer reviews",
       "free ebook"
     ],
-    "timestamp": 1762688985
+    "timestamp": 1763036293
   },
   {
     "domain": "yeyolento.com",
@@ -7235,7 +7145,7 @@
       "women skin",
       "non-woven face"
     ],
-    "timestamp": 1762688987
+    "timestamp": 1763036295
   },
   {
     "domain": "theearthlingco.com",
@@ -7511,10 +7421,6 @@
         "handle": "best-selling-products"
       },
       {
-        "title": "Black Friday Sale - Up to 50% Off!",
-        "handle": "sale"
-      },
-      {
         "title": "Body Wash Bars",
         "handle": "body-wash-bars"
       },
@@ -7621,6 +7527,10 @@
       {
         "title": "Sustainable Hair Care",
         "handle": "hair-care"
+      },
+      {
+        "title": "TSA Approved Travel Essentials",
+        "handle": "travel-essentials"
       }
     ],
     "offerings": {
@@ -7787,7 +7697,7 @@
       "questionable ingredients",
       "plastic waste"
     ],
-    "timestamp": 1762688989
+    "timestamp": 1763036298
   },
   {
     "domain": "truheightvitamins.com",
@@ -7965,6 +7875,6 @@
       "approach",
       "dna plays"
     ],
-    "timestamp": 1762688991
+    "timestamp": 1763036300
   }
 ]

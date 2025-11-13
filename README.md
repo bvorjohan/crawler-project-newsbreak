@@ -42,27 +42,11 @@ All crawler code lives inside the backend directory.
 
     pip install -r requirements.txt
 
-### 4. Configure Environment (if needed)
-
-If the crawler uses API keys or config values, create a .env or configuration file according to instructions inside backend.
-
-If you add a sample config file later, name it:
-
-    config.example.env
-
-and instruct users to copy and rename it.
-
-### 5. Run the Crawler
+### 4. Run the Crawler
 
 Depending on your entry point, run:
 
     python main.py
-
-or:
-
-    python -m crawler.main
-
-(Replace with the actual entry script if different.)
 
 ---
 

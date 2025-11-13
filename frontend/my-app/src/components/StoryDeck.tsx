@@ -34,6 +34,14 @@ const cards = [
     I spend a lot of time at work looking at Shopify stores, so this felt right-at-home!`,
   },
   {
+    title: "Cheating — only a little",
+    text: `While web scrapers are simple at heart, they have to deal with the profound dynamic messiness of the internet. While working on the project, there are a few challenges that came up that involved some tough choices.
+    
+    As I mentioned before, 9wick shut down before I started the assignment — so it gets left out of the final data. What's more, Cleanomics's website went from being its own web store to a marketing page for cleanomicessentials.com. In a real scaled-up production setting, these types of dynamic problems would require some long-term solutions. For this project, I just decided to use the updated domain.
+    
+    7bonkers is primarily a watch store, but also contains some "inappropriate" products. I decided not to alter the data coming in, but thankfully it does not show up on this website.`,
+  },
+  {
     title: "Personalization",
     text: `Some of these stores use "Buy with Prime", which is the Amazon service I work on. I've made sure to highlight those stores via the crawler data.`,
   },
@@ -66,7 +74,7 @@ export function StoryDeck() {
       </Button>
 
       {/* Card stack */}
-      <div className="relative w-[36rem] h-[24rem]">
+      <div className="relative w-[36rem] h-[26rem]">
         {cards.map((c, i) => {
           const offset = ((i - index + cards.length) % cards.length);
           const zIndex = cards.length - offset;
