@@ -37,6 +37,14 @@ const cards = [
     title: "Personalization",
     text: `Some of these stores use "Buy with Prime", which is the Amazon service I work on. I've made sure to highlight those stores via the crawler data.`,
   },
+  {
+    title: "De-Scoping",
+    text: `When I initially thought of how to approach the project, I also wanted to set up the script to run on a regular interval, and also add a button on the UI that would let you run it at-will. However, real life caught up to me (and I didn't want to have to pentest my API!) so I decided to de-scope that from this version.`,
+  },
+  {
+    title: "Room for growth",
+    text: `Web crawlers are simple in concept, but potentially complicated depending on what kind of data you're building for. Looking at this data, I have some questions. Why does this data return average price in Dollars even when that is not the primary shop currency? Is the average price a good representation of what you can expect to spend at the store? These are things that would require some further thought.`,
+  },
 ];
 
 export function StoryDeck() {
@@ -58,7 +66,7 @@ export function StoryDeck() {
       </Button>
 
       {/* Card stack */}
-      <div className="relative w-[36rem] h-[28rem]">
+      <div className="relative w-[36rem] h-[24rem]">
         {cards.map((c, i) => {
           const offset = ((i - index + cards.length) % cards.length);
           const zIndex = cards.length - offset;

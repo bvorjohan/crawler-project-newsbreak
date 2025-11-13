@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Globe, ShoppingBag, DollarSign, MapPin } from "lucide-react";
+import { Globe, ShoppingBag, DollarSign, MapPin, Tags } from "lucide-react";
 
 type StoreRecord = {
   domain: string;
@@ -49,7 +49,7 @@ export function StoreGrid() {
 
   return (
     <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-      {stores.map((store, i) => {
+      {stores.map((store) => {
         const meta = store.meta || {};
         const name = meta.name || store.domain;
         const url = meta.url || `https://${store.domain}`;
@@ -71,7 +71,7 @@ export function StoreGrid() {
 
         return (
           <Card
-            key={i}
+            key={store.domain}
             className="group border border-border/50 hover:border-border hover:shadow-lg transition-all duration-200 rounded-xl overflow-hidden bg-card"
           >
             <CardHeader className="pb-2">
@@ -80,7 +80,9 @@ export function StoreGrid() {
                   {name}
                 </CardTitle>
                 <Badge
-                  variant={store.platform === "Shopify" ? "default" : "secondary"}
+                  variant={
+                    store.platform === "Shopify" ? "default" : "secondary"
+                  }
                   className="text-xs"
                 >
                   {store.platform}
@@ -100,18 +102,26 @@ export function StoreGrid() {
             <CardContent className="space-y-3 text-sm">
               <p className="text-muted-foreground line-clamp-3">{desc}</p>
 
-              <div className="flex flex-wrap gap-2">
-                {keywords.map((kw, k) => (
-                  <Badge key={k} variant="outline" className="text-xs">
-                    {kw}
-                  </Badge>
-                ))}
-              </div>
+              {keywords.length > 0 && (
+                <div className="space-y-1">
+                  <div className="flex items-center gap-1 text-xs font-medium text-muted-foreground/80">
+                    <Tags className="h-3 w-3 opacity-80" />
+                    Keywords
+                  </div>
+
+                  <div className="flex flex-wrap gap-2">
+                    {keywords.map((kw, k) => (
+                      <Badge key={k} variant="outline" className="text-xs">
+                        {kw}
+                      </Badge>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               <div className="flex items-center justify-between pt-2 text-xs text-muted-foreground">
                 {price && (
                   <div className="flex items-center gap-1">
-                    <DollarSign className="h-3 w-3" />
                     Avg {price}
                   </div>
                 )}

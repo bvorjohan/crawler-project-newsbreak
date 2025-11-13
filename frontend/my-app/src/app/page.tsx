@@ -7,7 +7,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-background text-foreground">
       <section className="px-6 pt-10 pb-16">
-        <h1 className="text-3xl font-bold tracking-tight mb-6">Design Narrative</h1>
+        <h1 className="text-3xl font-bold tracking-tight mb-6">Bradley Vorjohan's Web Crawler</h1>
         <StoryDeck />
       </section>
 
