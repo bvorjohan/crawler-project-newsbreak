@@ -22,31 +22,46 @@ This README explains how to install, run, and develop each part of the project.
 
 All crawler code lives inside the backend directory.
 
+> **Important:**  
+> Use **Python 3.12** for this project.  
+> Some dependencies (lxml, jellyfish, etc.) do *not* yet publish wheels for Python 3.13+ or 3.14.  
+> Using Python 3.12 guarantees a clean, portable installation.
+
 ### 1. Move into the backend folder
 
     cd backend
 
-### 2. Create a Virtual Environment
+### 2. Create a Virtual Environment (Python 3.12)
 
 **macOS / Linux:**
 
-    python3 -m venv venv
+    python3.12 -m venv venv
     source venv/bin/activate
 
 **Windows (PowerShell):**
 
-    python -m venv venv
+    py -3.12 -m venv venv
     .\venv\Scripts\Activate
 
 ### 3. Install Dependencies
 
-    pip install -r requirements.txt
+It is recommended to avoid cached wheels to ensure correct installs:
+
+    python -m pip install --upgrade pip
+    python -m pip install --no-cache-dir -r requirements.txt
 
 ### 4. Run the Crawler
 
-Depending on your entry point, run:
+Run the module entrypoint:
 
-    python main.py
+    python -m crawler.main
+
+This will generate:
+
+- `backend/shopify_data.json`
+- `backend/shopify_data.csv`
+
+The frontend may optionally consume the JSON file.
 
 ---
 
@@ -87,30 +102,31 @@ Open your browser at the printed URL (commonly http://localhost:3000).
 
 ## 🧰 Developer Workflow
 
-1. Clone repo
-2. Set up backend virtual environment
-3. Install backend dependencies
-4. Run crawler
-5. Optionally run frontend
-6. Use deployment configs if needed
+1. Clone repo  
+2. Set up backend virtual environment (Python 3.12)  
+3. Install backend dependencies  
+4. Run crawler  
+5. Optionally run frontend  
+6. Use deployment configs if needed  
 
 ---
 
 ## 🛠 Troubleshooting
 
-- Missing modules: activate environment and reinstall requirements.
-- ModuleNotFoundError: ensure you're in backend.
-- Frontend port conflicts: edit package.json or stop conflicting service.
-- Missing config: provide config.example.env.
+- **Wrong Python version** → Ensure you're using Python 3.12 (`python --version`)
+- **Missing modules** → Activate venv and reinstall requirements  
+- **Binary wheels missing** → Delete `venv` and reinstall using steps above  
+- **ModuleNotFoundError (Windows)** → Confirm `where python` points inside `backend/venv/`  
+- **Frontend port conflicts** → Edit `package.json` or stop conflicting service  
 
 ---
 
 ## 📦 Deployment Notes
 
 Includes:
-- netlify.toml
-- render.yaml
-- build.sh
+- netlify.toml  
+- render.yaml  
+- build.sh  
 
 These are not required for local development.
 

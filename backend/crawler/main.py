@@ -414,4 +414,28 @@ if __name__ == "__main__":
     with frontend_output_path.open("w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
+    # -------------------------------------
+    # Write CSV output (domain, description, keywords)
+    # -------------------------------------
+    import csv
+
+    csv_output_path = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        "extremely_straightforward_deliverable.csv"
+    )
+
+    with open(csv_output_path, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["domain", "description", "keywords"])
+
+        for store in results:
+            kw = store.get("landing_keywords") or []
+            writer.writerow([
+                store.get("domain", ""),
+                store.get("description", "").replace("\n", " "),
+                ", ".join(kw)
+            ])
+
+    print(f"📄 CSV output written to {csv_output_path}")
+
     print(f"✅ Done! Results written to {out_path}")
