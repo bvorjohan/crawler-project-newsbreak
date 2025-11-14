@@ -59,7 +59,7 @@ Run the module entrypoint:
 This will generate:
 
 - `backend/shopify_data.json`
-- `backend/shopify_data.csv`
+- `backend/extremely_straightforward_deliverable.csv`
 
 The frontend may optionally consume the JSON file.
 
