@@ -21,7 +21,7 @@ const cards = [
     title: "Tools Used",
     text: `I used ChatGPT to help iterate over ideas more quickly. I am not really an "AI Enthusiast", but it definitely removes a lot of obstacles from prototyping!
     
-    For the frontend, this project was an opportunity to experiment with some more interesting UI frameworks than I usually use, so I was very happy to get to use tailwind and framer-motion.
+    For the frontend, this project was an opportunity to experiment with some more interesting UI frameworks than I usually use, so I was very happy to get to use tailwind and framer-motion. This project is hosted on Netlify, which is always my choice for hosting personal projects.
     
     For the crawler itself, I used a smattering of common Python libraries for http/html manipulation. More interestingly, I chose to use yake and sentence_transformers to do some light analysis on the crawler results.`,
   },
